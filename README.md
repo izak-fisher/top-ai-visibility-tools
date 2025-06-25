@@ -1,7 +1,7 @@
 ### Top AI-Visibility & GEO Tools (2025)
 
 
-> **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit.
+> **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you making a decision.
 
 - **[Otterly.AI](https://otterly.ai)** – Realtime dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice, with workflow tips to “win the snippet”. Starts at $29 / mo after 7-day trial. :contentReference[oaicite:0]{index=0}  
 
