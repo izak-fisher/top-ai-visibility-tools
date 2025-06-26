@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ### Top Generative Engine Optimization (GEO) Tools (2025)
 
 SEO is fast losing relevance as people are relying more and more on LLM-powered answer engines to research products and services.
