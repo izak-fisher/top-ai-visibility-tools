@@ -1,4 +1,4 @@
-### Top AI-Visibility & GEO Tools (2025)
+### Top Generative Engine Optimization (GEO) Tools (2025)
 
 SEO is fast losing relevance as people are relying more and more on LLM-powered answer engines to research products and services.
 Here's a list of tools that can help you track how well your company/offering is represented in AI responses.
